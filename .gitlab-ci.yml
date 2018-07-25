@@ -1,0 +1,18 @@
+stages:
+  - build
+
+build:
+  image: ubuntu:14.04
+  stage: build
+  before_script:
+  - apt-get update
+  - DEBIAN_FRONTEND=noninteractive apt-get -y install build-essential gcc-4.4 php5 php5-dev pkg-config php-config libxml2-dev
+  script:
+  - ./build.sh
+  - mkdir ./output
+    && cp /usr/lib/php5/20121212/wsf.so ./output/
+    && cp -r /usr/lib/php5/20121212/wsf_c ./output/
+  artifacts:
+    when: always
+    paths:
+    - ./output

@@ -1,0 +1,52 @@
+rampart_error.lo: rampart_error.c /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/stdc-predef.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.4.7/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ ../../include/rampart_error.h \
+ /usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_error.h \
+ /usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_utils_defines.h \
+ /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_allocator.h \
+ /usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_error_default.h
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.4.7/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
+../../include/rampart_error.h:
+
+/usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_error.h:
+
+/usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_utils_defines.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_allocator.h:
+
+/usr/src/wso2-wsf-php-src-svn/wsf_c/rampartc/../axis2c/util/include/axutil_error_default.h:
